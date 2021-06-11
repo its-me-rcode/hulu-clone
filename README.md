@@ -1,4 +1,4 @@
-# Facebook NextJs Clone
+# Hulu NextJs Clone
 
 This is a Hulu Streaming Website Clone , Build with React, Next-js. Used Tailwind CSS for styling.
 
